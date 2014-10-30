@@ -1,14 +1,14 @@
 {
-  "name": "kendo-ui",
-  "version": "2014.2.1020",
+  "name": "pnotify",
+  "version": "2.0.1",
   "dependencies": {
     "jquery": ">=1.9.1"
   },
   "authors": [
-    "Telerik"
+    "Sciactive"
   ],
   "description": "Everything you need to build sites and apps with HTML5 & JavaScript",
-  "main": "js/kendo.all.min.js",
+  "main": "js/pnotify.custom.js",
   "moduleType": [
     "amd",
     "globals"
@@ -20,8 +20,7 @@
     "ui",
     "framework"
   ],
-  "license": "Commercial",
-  "homepage": "http://kendoui.com",
+  "homepage": "http://sciactive.github.io/pnotify/",
   "private": true,
   "ignore": [
     "node_modules",
